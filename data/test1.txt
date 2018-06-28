@@ -7,8 +7,5 @@ mno
 pqr
 yyy
 xxx
-<<<<<<< HEAD
 BRANCH1
-=======
 BRANCH2
->>>>>>> branch2
